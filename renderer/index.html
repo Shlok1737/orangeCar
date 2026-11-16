@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;">
+  <title>Desktop Cat</title>
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    window.onerror = function(msg, url, line, col, err) {
+      console.error('Renderer window.onerror:', msg, 'at', line, col, err);
+    };
+  </script>
+</head>
+<body>
+  <div id="debug-overlay"></div>
+  <canvas id="canvas"></canvas>
+
+  <script src="ref-cat-sprites.js"></script>
+  <script src="sprite-generator.js"></script>
+  <script src="particles.js"></script>
+  <script src="audio-analyzer.js"></script>
+  <script src="state-machine.js"></script>
+  <script src="cat.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+{
+  "display": {
+    "scale": 1.5,
+    "alwaysOnTop": true,
+    "floorOffset": 4,
+    "debug": false
+  },
+  "physics": {
+    "gravity": 0.65,
+    "terminalVelocity": 10,
+    "bounce": 0.25,
+    "friction": 0.88
+  },
+  "movement": {
+    "walkSpeed": 1.4,
+    "zoomiesSpeed": 5.2,
+    "cursorChaseSpeed": 12.2,
+    "directionChangeChance": 0.02
+  },
+  "states": {
+    "idle": {
+      "minDurationMs": 3000,
+      "maxDurationMs": 7000
+    },
+    "walk": {
+      "minDurationMs": 4000,
+      "maxDurationMs": 9000
+    },
+    "sit": {
+      "minDurationMs": 4000,
+      "maxDurationMs": 10000
+    },
+    "zoomies": {
+      "chance": 0.08,
+      "minDurationMs": 3000,
+      "maxDurationMs": 6000
+    },
+    "transitionWeights": {
+      "idle": 35,
+      "walk": 35,
+      "sit": 20,
+      "zoomies": 10
+    }
+  },
+  "behaviors": {
+    "click": {
+      "rapidClickThreshold": 5,
+      "rapidClickWindowMs": 2000,
+      "swatDurationMs": 1200,
+      "purrDurationMs": 2500
+    },
+    "sleep": {
+      "inactivityMinutes": 10,
+      "nightSleepEnabled": true,
+      "nightStartHour": 23,
+      "nightEndHour": 7
+    },
+    "sulk": {
+      "hoursWithoutInteraction": 4,
+      "petsNeededToForgive": 3
+    },
+    "cursorChase": {
+      "enabled": true,
+      "triggerDistance": 180,
+      "stopDistance": 40
+    },
+    "taskbarSwat": {
+      "enabled": true,
+      "checkIntervalMinSec": 60,
+      "checkIntervalMaxSec": 180,
+      "swatDurationMs": 2000,
+      "appReturnDelaySec": 10
+    },
+    "music": {
+      "oiiaEnabled": true,
+      "mode": "oiia",
+      "hotkey": "CommandOrControl+Alt+O",
+      "baseSpinSpeed": 1.2,
+      "maxSpinSpeed": 5.0,
+      "beatSensitivity": 1.5,
+      "dizzyDurationMs": 3000
+    }
+  },
+  "sprites": {
+    "source": "procedural",
+    "pixelSize": 32,
+    "frameRate": 8,
+    "custom": {
+      "spriteSheetPath": "",
+      "frameWidth": 32,
+      "frameHeight": 32
+    }
+  }
+}

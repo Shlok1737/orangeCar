@@ -1,0 +1,1015 @@
+[2026-11-16T13:14:52.256Z] Starting main.js...
+[2026-11-16T13:14:52.295Z] app.whenReady resolved
+[2026-11-16T13:14:52.297Z] Primary display bounds: 1397x786
+[2026-11-16T13:14:52.381Z] loadFile called for index.html
+[2026-11-16T13:14:52.386Z] Tray setup completed successfully
+[2026-11-16T13:14:52.387Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:14:52.614Z] [Renderer] %cElectron Security Warning (Insecure Content-Security-Policy) font-weight: bold; This renderer process has either no Content Security
+  Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+  this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (node:electron/js2c/sandbox_bundle:2)
+[2026-11-16T13:21:47.279Z] Starting main.js...
+[2026-11-16T13:21:47.317Z] app.whenReady resolved
+[2026-11-16T13:21:47.319Z] Primary display bounds: 1397x786
+[2026-11-16T13:21:47.401Z] loadFile called for index.html
+[2026-11-16T13:21:47.405Z] Tray setup completed successfully
+[2026-11-16T13:21:47.407Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:21:47.636Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:21:47.639Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:21:47.744Z] [Renderer] [Renderer] Cat ready at (651, 650), Floor Y: 650 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:22:15.771Z] Starting main.js...
+[2026-11-16T13:22:15.812Z] app.whenReady resolved
+[2026-11-16T13:22:15.814Z] Primary display bounds: 1397x786
+[2026-11-16T13:22:15.911Z] loadFile called for index.html
+[2026-11-16T13:22:15.933Z] Tray setup completed successfully
+[2026-11-16T13:22:15.935Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:22:16.191Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:22:16.194Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:22:16.315Z] [Renderer] [Renderer] Cat ready at (651, 650), Floor Y: 650 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:22:25.969Z] Starting main.js...
+[2026-11-16T13:22:26.012Z] app.whenReady resolved
+[2026-11-16T13:22:26.014Z] Primary display bounds: 1397x786
+[2026-11-16T13:22:26.104Z] loadFile called for index.html
+[2026-11-16T13:22:26.123Z] Tray setup completed successfully
+[2026-11-16T13:22:26.124Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:22:26.375Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:22:26.378Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:22:26.491Z] [Renderer] [Renderer] Cat ready at (651, 650), Floor Y: 650 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:28:19.216Z] Starting main.js...
+[2026-11-16T13:28:19.253Z] app.whenReady resolved
+[2026-11-16T13:28:19.254Z] Primary display bounds: 1397x786
+[2026-11-16T13:28:19.332Z] loadFile called for index.html
+[2026-11-16T13:28:19.336Z] Tray setup completed successfully
+[2026-11-16T13:28:19.338Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:28:19.970Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:28:19.972Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:28:19.980Z] [Renderer] [Renderer] Cat ready at (637, 647), Floor Y: 647 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:30:04.180Z] Starting main.js...
+[2026-11-16T13:30:04.221Z] app.whenReady resolved
+[2026-11-16T13:30:04.222Z] Primary display bounds: 1397x786
+[2026-11-16T13:30:04.323Z] loadFile called for index.html
+[2026-11-16T13:30:04.344Z] Tray setup completed successfully
+[2026-11-16T13:30:04.346Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:30:04.605Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:30:04.610Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:30:04.612Z] [Renderer] [Renderer] Cat ready at (637, 647), Floor Y: 647 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:30:20.944Z] Starting main.js...
+[2026-11-16T13:30:20.985Z] app.whenReady resolved
+[2026-11-16T13:30:20.987Z] Primary display bounds: 1397x786
+[2026-11-16T13:30:21.091Z] loadFile called for index.html
+[2026-11-16T13:30:21.111Z] Tray setup completed successfully
+[2026-11-16T13:30:21.113Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:30:21.395Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:30:21.398Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:30:21.400Z] [Renderer] [Renderer] Cat ready at (637, 647), Floor Y: 647 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:41)
+[2026-11-16T13:30:43.689Z] OIIA Dance toggled: false
+[2026-11-16T13:30:43.702Z] [Renderer] OIIA toggle received: false (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:173)
+[2026-11-16T13:30:56.466Z] OIIA Dance toggled: true
+[2026-11-16T13:30:56.475Z] [Renderer] OIIA toggle received: true (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:173)
+[2026-11-16T13:31:19.149Z] Config file changed (change), reloading...
+[2026-11-16T13:31:19.149Z] Config file changed (change), reloading...
+[2026-11-16T13:31:19.151Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:31:19.151Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:31:19.152Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:31:19.152Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:31:42.104Z] Config file changed (change), reloading...
+[2026-11-16T13:31:42.105Z] Config file changed (change), reloading...
+[2026-11-16T13:31:42.106Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:31:42.106Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:31:42.107Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:31:42.107Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:32:29.379Z] Config file changed (change), reloading...
+[2026-11-16T13:32:29.378Z] Config file changed (change), reloading...
+[2026-11-16T13:32:29.380Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:32:29.381Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:32:29.381Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:32:29.382Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:04.695Z] Config file changed (change), reloading...
+[2026-11-16T13:33:04.695Z] Config file changed (change), reloading...
+[2026-11-16T13:33:04.697Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:04.697Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:04.698Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:04.698Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:06.126Z] Config file changed (change), reloading...
+[2026-11-16T13:33:06.126Z] Config file changed (change), reloading...
+[2026-11-16T13:33:06.128Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:06.128Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:06.129Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:06.129Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:06.895Z] Config file changed (change), reloading...
+[2026-11-16T13:33:06.895Z] Config file changed (change), reloading...
+[2026-11-16T13:33:06.896Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:06.896Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:06.897Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:06.899Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:12.409Z] Config file changed (change), reloading...
+[2026-11-16T13:33:12.409Z] Config file changed (change), reloading...
+[2026-11-16T13:33:12.410Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:12.411Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:12.412Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:12.412Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:13.282Z] Config file changed (change), reloading...
+[2026-11-16T13:33:13.282Z] Config file changed (change), reloading...
+[2026-11-16T13:33:13.284Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:13.285Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:33:13.285Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:33:13.286Z] [Renderer] Applying updated config... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:155)
+[2026-11-16T13:52:05.928Z] Starting main.js...
+[2026-11-16T13:52:05.971Z] app.whenReady resolved
+[2026-11-16T13:52:05.979Z] Primary display bounds: 1397x786
+[2026-11-16T13:52:06.057Z] loadFile called for index.html
+[2026-11-16T13:52:06.061Z] Tray setup completed successfully
+[2026-11-16T13:52:06.063Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T13:52:06.708Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T13:52:06.710Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T13:52:06.711Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T13:52:06.712Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T13:52:08.318Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:09:14.642Z] Starting main.js...
+[2026-11-16T14:09:14.685Z] app.whenReady resolved
+[2026-11-16T14:09:14.686Z] Primary display bounds: 1397x786
+[2026-11-16T14:09:14.780Z] loadFile called for index.html
+[2026-11-16T14:09:14.804Z] Tray setup completed successfully
+[2026-11-16T14:09:14.805Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T14:09:15.072Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T14:09:15.075Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T14:09:15.077Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T14:09:15.077Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T14:09:16.655Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:09:19.869Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:20.039Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:20.500Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:20.662Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:21.005Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:178)
+[2026-11-16T14:09:21.196Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:21.575Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:21.712Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:25.232Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:25.394Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:26.175Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:26.352Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:27.349Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:09:27.527Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:10:16.804Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:10:16.813Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:10:32.487Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:10:32.487Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:10:46.962Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:10:46.962Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:10:52.560Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:10:52.561Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:10:55.053Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:10:55.053Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:48)
+[2026-11-16T14:11:17.560Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:11:17.560Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:57)
+[2026-11-16T14:11:24.371Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:24.533Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:24.889Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:25.043Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:25.205Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:178)
+[2026-11-16T14:11:25.368Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:25.691Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:25.845Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:26.023Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:26.185Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:178)
+[2026-11-16T14:11:52.393Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:53.160Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:53.327Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:53.815Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:53.969Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:178)
+[2026-11-16T14:11:54.541Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:11:54.735Z] [Renderer] [Cat] Petted! Purring happily with hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:16:21.369Z] Starting main.js...
+[2026-11-16T14:16:21.406Z] app.whenReady resolved
+[2026-11-16T14:16:21.407Z] Primary display bounds: 1397x786
+[2026-11-16T14:16:21.475Z] loadFile called for index.html
+[2026-11-16T14:16:21.479Z] Tray setup completed successfully
+[2026-11-16T14:16:21.480Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T14:16:21.686Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T14:16:21.688Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T14:16:21.688Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T14:16:21.764Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T14:16:23.245Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:19:05.947Z] Starting main.js...
+[2026-11-16T14:19:05.986Z] app.whenReady resolved
+[2026-11-16T14:19:05.988Z] Primary display bounds: 1397x786
+[2026-11-16T14:19:06.074Z] loadFile called for index.html
+[2026-11-16T14:19:06.093Z] Tray setup completed successfully
+[2026-11-16T14:19:06.094Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T14:19:06.355Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T14:19:06.360Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T14:19:06.363Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T14:19:06.468Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T14:19:07.621Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:19:08.935Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:09.110Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:12.469Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:12.648Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:16.286Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:16.476Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:16.654Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:16.819Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:17.171Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:17.343Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:17.511Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:17.703Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:17.868Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:18.035Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:18.189Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:18.354Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:18.514Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:22.383Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:24.135Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:24.311Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:24.838Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:25.024Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:26.020Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:26.258Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:26.397Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:26.551Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:26.689Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:26.806Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:26.947Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.087Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.217Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.331Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.424Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:27.462Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.570Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.726Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.843Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:27.963Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:28.212Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:28.342Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:28.459Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:28.582Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:28.705Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:28.829Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:28.945Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:29.076Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:29.193Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:29.316Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:29.439Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:29.569Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:29.739Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:30.952Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:31.114Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:31.294Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:31.423Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:31.569Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:31.740Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:31.894Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:32.039Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:32.195Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:32.333Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:32.603Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:32.766Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:32.960Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:33.129Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:33.276Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:33.438Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:33.617Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:33.778Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:33.947Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:34.126Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:34.271Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:34.434Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:34.573Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:34.836Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:34.989Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:35.184Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:35.334Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:19:35.454Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:35.584Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:35.740Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:35.840Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:38.658Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:38.819Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:42.734Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:42.912Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:46.146Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:46.322Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:19:46.545Z] [Renderer] [Cat] Petted! Purring happily with floating hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:22:14.619Z] Starting main.js...
+[2026-11-16T14:22:14.656Z] app.whenReady resolved
+[2026-11-16T14:22:14.657Z] Primary display bounds: 1397x786
+[2026-11-16T14:22:14.729Z] loadFile called for index.html
+[2026-11-16T14:22:14.734Z] Tray setup completed successfully
+[2026-11-16T14:22:14.736Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T14:22:14.947Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T14:22:14.950Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T14:22:14.951Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T14:22:15.034Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T14:22:16.578Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:44:40.999Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:44:43.024Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:44:44.616Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:44:46.591Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:44:48.215Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:44:50.190Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:44:51.815Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:44:53.773Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:44:55.415Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:44:57.373Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:44:59.014Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:00.981Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:02.616Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:04.573Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:06.214Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:08.156Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:18.581Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:20.648Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:26.047Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:27.680Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:30.555Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:32.189Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:34.005Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:34.939Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:38.600Z] Starting main.js...
+[2026-11-16T14:45:38.647Z] app.whenReady resolved
+[2026-11-16T14:45:38.650Z] Primary display bounds: 1397x786
+[2026-11-16T14:45:38.776Z] loadFile called for index.html
+[2026-11-16T14:45:38.802Z] Tray setup completed successfully
+[2026-11-16T14:45:38.804Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T14:45:39.159Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T14:45:39.161Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T14:45:39.162Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T14:45:39.263Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T14:45:40.764Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T14:45:41.752Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:41.941Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:43.052Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:43.192Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:43.993Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:44.935Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:45.715Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:46.201Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:46.512Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:46.675Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:46.827Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:47.451Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:47.600Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:47.745Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:47.907Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:48.068Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:48.217Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:48.357Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:48.581Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:48.726Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:48.874Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.027Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.165Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.327Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.476Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:49.586Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.769Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:49.924Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:50.115Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:50.286Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:50.464Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:50.650Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:50.865Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.027Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.212Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:51.382Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.589Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.768Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.907Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:51.946Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:52.178Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:52.363Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:52.369Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:52.388Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:52.594Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:52.802Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:53.003Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:53.212Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:53.406Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:53.614Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:53.845Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:54.062Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:45:54.197Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:54.200Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:54.263Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:54.407Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:54.601Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:45:56.564Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:56.588Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:45:59.439Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:45:59.440Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:46:04.996Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:46:05.022Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:46:07.197Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:46:07.230Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:46:22.313Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:46:24.396Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:46:30.172Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:46:34.412Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:46:55.952Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:46:57.436Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:06.860Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:08.277Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:09.301Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:13.960Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:14.176Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:16.593Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:17.143Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:18.801Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:20.218Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:23.476Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:24.126Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:27.243Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:28.435Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:30.451Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:31.993Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:34.159Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:35.717Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:40.442Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:47.166Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:48.567Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:55.316Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:47:57.349Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:47:58.783Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:03.608Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:48:04.924Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:08.199Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:48:11.091Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:20.749Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:48:21.441Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:31.641Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:48:31.715Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:36.523Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:48:55.490Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:48:58.699Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:02.415Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:04.198Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:10.306Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:12.865Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:12.931Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:15.782Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:22.614Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:28.332Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:28.872Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:31.814Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:32.239Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:34.189Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:35.497Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:36.605Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:41.938Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:46.055Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:47.088Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:49.155Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:49.171Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:53.288Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:53.321Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:55.238Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:55.471Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:49:58.496Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:49:58.979Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:03.212Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:05.212Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:07.146Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:07.646Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:10.695Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:16.862Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:19.104Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:25.371Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:28.094Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:31.261Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:32.286Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:34.194Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:38.611Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:39.127Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:41.561Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:42.169Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:44.927Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:45.370Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:46.694Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:46.786Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:49.060Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:49.902Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:54.152Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:54.710Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:50:58.318Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:50:59.660Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:01.118Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:03.410Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:04.651Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:04.734Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:09.568Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:10.118Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:11.360Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:15.767Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:19.201Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:23.908Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:26.308Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:26.542Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:27.651Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:28.700Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:31.083Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:32.808Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:36.858Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:37.125Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:38.708Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:40.700Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:42.825Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:44.833Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:45.799Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:47.041Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:48.833Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:51:49.466Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:51:53.608Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:52:21.963Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:52:23.430Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:52:46.432Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:46.736Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:52:47.373Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:47.535Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:47.730Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:47.891Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:48.186Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:48.339Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:49.061Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:52:49.683Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:49.791Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:49.846Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:50.833Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:51.034Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:51.899Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:52.146Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:52.323Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:52.477Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:52.972Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:53.133Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:53.304Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:53.481Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:53.667Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:53.846Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.007Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.183Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.347Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:54.500Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.639Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.809Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:54.949Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:55.125Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:55.281Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:55.443Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:55.660Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:52:55.859Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:56.030Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:56.214Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:56.399Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:56.593Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:56.725Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:56.880Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:57.049Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:57.221Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:57.366Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:57.498Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:57.638Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:57.728Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:52:57.789Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:57.959Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:58.077Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:52:58.113Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:58.283Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:58.631Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:58.785Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:58.941Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:59.117Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:59.265Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:59.420Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:59.689Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T14:52:59.769Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:52:59.821Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:52:59.905Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:53:01.141Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T14:53:04.060Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:06.828Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:29.430Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:30.446Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:30.763Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:32.280Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:32.796Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:35.779Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:38.671Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:39.855Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:40.229Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:41.946Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:47.742Z] [Renderer] [Renderer] Test OIIA spin triggered! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:73)
+[2026-11-16T14:53:50.054Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:51.987Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:53:53.293Z] Tray icon clicked
+[2026-11-16T14:53:55.837Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:53:57.202Z] Pause toggled: true
+[2026-11-16T14:54:05.793Z] Tray icon clicked
+[2026-11-16T14:54:07.601Z] Pause toggled: false
+[2026-11-16T14:54:08.487Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:54:18.312Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:54:19.271Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:00.426Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:02.884Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:12.227Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:16.061Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:21.992Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:26.617Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:31.508Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:37.608Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:37.867Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:39.474Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:42.974Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:46.041Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:47.033Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:48.791Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:55:55.223Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:55:57.057Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:56:01.700Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:56:05.116Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:56:07.358Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:56:09.000Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:56:18.316Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:56:19.649Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:09.489Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:12.772Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:16.731Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:18.064Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:23.213Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:24.605Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:24.614Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:32.154Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:36.647Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:38.497Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:39.904Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:42.821Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:43.829Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:45.196Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:45.220Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:47.355Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:53.837Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:55.362Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:57:56.187Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:57:58.979Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:00.437Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:02.570Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:02.720Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:17.019Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:19.185Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:23.218Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:24.543Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:28.660Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:28.926Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:34.059Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:34.376Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:35.701Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:37.418Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:42.492Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:48.117Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:52.917Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:58:54.725Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:58:56.067Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:59:08.150Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:59:17.949Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:59:23.475Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:59:34.074Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:59:39.407Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:59:41.682Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:59:46.207Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:59:49.057Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T14:59:52.940Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T14:59:54.031Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T16:47:42.990Z] Starting main.js...
+[2026-11-16T16:47:43.269Z] app.whenReady resolved
+[2026-11-16T16:47:43.288Z] Primary display bounds: 1397x786
+[2026-11-16T16:47:43.612Z] loadFile called for index.html
+[2026-11-16T16:47:43.633Z] Tray setup completed successfully
+[2026-11-16T16:47:43.638Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T16:47:44.896Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T16:47:44.923Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T16:47:44.924Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T16:47:44.933Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T16:47:47.120Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T16:47:58.942Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:20.409Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:20.748Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:21.096Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:21.273Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:21.420Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T16:48:21.565Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:21.736Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:21.875Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.053Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.216Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T16:48:22.370Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.538Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.685Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.818Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:22.970Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T16:48:23.859Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:24.028Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:24.199Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:24.361Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T16:48:24.539Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T16:49:50.748Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T16:50:01.491Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T16:50:07.838Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T16:50:55.194Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T16:53:47.350Z] Starting main.js...
+[2026-11-16T16:53:47.483Z] app.whenReady resolved
+[2026-11-16T16:53:47.498Z] Primary display bounds: 1397x786
+[2026-11-16T16:53:47.615Z] loadFile called for index.html
+[2026-11-16T16:53:47.664Z] Tray setup completed successfully
+[2026-11-16T16:53:47.667Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T16:53:49.061Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T16:53:49.099Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T16:53:49.100Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T16:53:49.102Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T16:53:51.318Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:07:38.846Z] Starting main.js...
+[2026-11-16T17:07:38.949Z] app.whenReady resolved
+[2026-11-16T17:07:38.965Z] Primary display bounds: 1397x786
+[2026-11-16T17:07:39.140Z] loadFile called for index.html
+[2026-11-16T17:07:39.145Z] Tray setup completed successfully
+[2026-11-16T17:07:39.147Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:07:40.482Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:07:40.485Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:07:40.486Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:07:40.487Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:07:43.209Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:08:09.942Z] Starting main.js...
+[2026-11-16T17:08:09.984Z] app.whenReady resolved
+[2026-11-16T17:08:09.986Z] Primary display bounds: 1397x786
+[2026-11-16T17:08:10.086Z] loadFile called for index.html
+[2026-11-16T17:08:10.106Z] Tray setup completed successfully
+[2026-11-16T17:08:10.108Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:08:10.440Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:08:10.445Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:08:10.446Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:08:10.551Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:08:11.971Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:12:10.914Z] Starting main.js...
+[2026-11-16T17:12:10.952Z] app.whenReady resolved
+[2026-11-16T17:12:10.954Z] Primary display bounds: 1397x786
+[2026-11-16T17:12:11.031Z] loadFile called for index.html
+[2026-11-16T17:12:11.035Z] Tray setup completed successfully
+[2026-11-16T17:12:11.037Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:12:11.669Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:12:11.671Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:12:11.672Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:12:11.674Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:12:13.214Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:14:44.412Z] Starting main.js...
+[2026-11-16T17:14:44.458Z] app.whenReady resolved
+[2026-11-16T17:14:44.459Z] Primary display bounds: 1397x786
+[2026-11-16T17:14:44.556Z] loadFile called for index.html
+[2026-11-16T17:14:44.572Z] Tray setup completed successfully
+[2026-11-16T17:14:44.574Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:14:44.858Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:14:44.861Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:14:44.862Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:14:44.966Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:14:46.092Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:17:14.686Z] Starting main.js...
+[2026-11-16T17:17:14.727Z] app.whenReady resolved
+[2026-11-16T17:17:14.728Z] Primary display bounds: 1397x786
+[2026-11-16T17:17:14.816Z] loadFile called for index.html
+[2026-11-16T17:17:14.831Z] Tray setup completed successfully
+[2026-11-16T17:17:14.833Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:17:15.115Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:17:15.120Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:17:15.121Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:17:15.209Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:17:16.916Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:17:19.003Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:19.164Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:19.342Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:19.490Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:19.645Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:17:19.774Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:19.922Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:20.068Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:20.246Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:20.408Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:17:20.563Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:20.716Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:20.864Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:21.011Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:21.173Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:17:21.326Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:21.474Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:21.637Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:21.806Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:22.594Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:17:23.429Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:23.998Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:24.540Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:25.064Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:25.466Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:17:25.690Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:17:26.068Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:22:10.045Z] Starting main.js...
+[2026-11-16T17:22:10.079Z] app.whenReady resolved
+[2026-11-16T17:22:10.080Z] Primary display bounds: 1397x786
+[2026-11-16T17:22:10.158Z] loadFile called for index.html
+[2026-11-16T17:22:10.171Z] Tray setup completed successfully
+[2026-11-16T17:22:10.173Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:22:10.391Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:22:10.393Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:22:10.394Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:22:10.470Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:22:12.000Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:22:23.087Z] Starting main.js...
+[2026-11-16T17:22:23.118Z] app.whenReady resolved
+[2026-11-16T17:22:23.120Z] Primary display bounds: 1397x786
+[2026-11-16T17:22:23.205Z] loadFile called for index.html
+[2026-11-16T17:22:23.220Z] Tray setup completed successfully
+[2026-11-16T17:22:23.222Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:22:23.458Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:22:23.460Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:22:23.461Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:22:23.550Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:22:25.063Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:25:17.307Z] Starting main.js...
+[2026-11-16T17:25:17.384Z] app.whenReady resolved
+[2026-11-16T17:25:17.391Z] Primary display bounds: 1397x786
+[2026-11-16T17:25:17.459Z] loadFile called for index.html
+[2026-11-16T17:25:17.463Z] Tray setup completed successfully
+[2026-11-16T17:25:17.465Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:25:18.447Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:25:18.448Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:25:18.560Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:25:19.436Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:25:19.659Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:26:54.149Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:26:54.390Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:27:01.690Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:27:01.981Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:27:04.598Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:27:04.656Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:27:49.421Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:28:01.496Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:28:06.588Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:28:06.762Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:28:19.385Z] Starting main.js...
+[2026-11-16T17:28:19.429Z] app.whenReady resolved
+[2026-11-16T17:28:19.432Z] Primary display bounds: 1397x786
+[2026-11-16T17:28:19.525Z] loadFile called for index.html
+[2026-11-16T17:28:19.543Z] Tray setup completed successfully
+[2026-11-16T17:28:19.546Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:28:19.874Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:28:19.876Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:28:20.048Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:28:21.183Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:28:21.386Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:28:26.445Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:28:26.474Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:28:37.853Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:28:37.862Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:29:00.694Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:29:00.709Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:136)
+[2026-11-16T17:29:02.461Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:29:02.461Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:31:23.488Z] Starting main.js...
+[2026-11-16T17:31:23.521Z] app.whenReady resolved
+[2026-11-16T17:31:23.522Z] Primary display bounds: 1397x786
+[2026-11-16T17:31:23.589Z] loadFile called for index.html
+[2026-11-16T17:31:23.592Z] Tray setup completed successfully
+[2026-11-16T17:31:23.594Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:31:23.824Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:31:23.826Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:31:24.021Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:31:25.025Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:31:25.278Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:35:32.774Z] Starting main.js...
+[2026-11-16T17:35:32.819Z] app.whenReady resolved
+[2026-11-16T17:35:32.822Z] Primary display bounds: 1397x786
+[2026-11-16T17:35:32.925Z] loadFile called for index.html
+[2026-11-16T17:35:32.945Z] Tray setup completed successfully
+[2026-11-16T17:35:32.947Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:35:33.267Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:35:33.271Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:35:33.465Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:35:34.689Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:35:34.960Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:128)
+[2026-11-16T17:35:53.444Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:258)
+[2026-11-16T17:35:53.607Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:258)
+[2026-11-16T17:35:53.754Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:258)
+[2026-11-16T17:35:53.908Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:258)
+[2026-11-16T17:35:54.023Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:254)
+[2026-11-16T17:35:54.077Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:258)
+[2026-11-16T17:36:23.956Z] Starting main.js...
+[2026-11-16T17:36:23.988Z] app.whenReady resolved
+[2026-11-16T17:36:23.990Z] Primary display bounds: 1397x786
+[2026-11-16T17:36:24.068Z] loadFile called for index.html
+[2026-11-16T17:36:24.081Z] Tray setup completed successfully
+[2026-11-16T17:36:24.083Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:36:24.299Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:36:24.301Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:36:24.302Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:36:24.380Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:36:25.295Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:36:25.498Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T17:36:27.808Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:36:27.971Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:36:28.094Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:36:28.217Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:36:28.342Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:42:34.318Z] Starting main.js...
+[2026-11-16T17:42:34.350Z] app.whenReady resolved
+[2026-11-16T17:42:34.352Z] Primary display bounds: 1397x786
+[2026-11-16T17:42:34.426Z] loadFile called for index.html
+[2026-11-16T17:42:34.430Z] Tray setup completed successfully
+[2026-11-16T17:42:34.431Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:42:35.024Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:42:35.026Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:42:35.027Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:42:35.028Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:42:35.928Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:42:36.131Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T17:47:46.557Z] Starting main.js...
+[2026-11-16T17:47:46.604Z] app.whenReady resolved
+[2026-11-16T17:47:46.606Z] Primary display bounds: 1397x786
+[2026-11-16T17:47:46.716Z] loadFile called for index.html
+[2026-11-16T17:47:46.733Z] Tray setup completed successfully
+[2026-11-16T17:47:46.735Z] Failed to register global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:47:47.039Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:47:47.043Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:47:47.045Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:47:47.141Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:47:48.420Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:47:48.681Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T17:47:53.624Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T17:47:53.681Z] [Renderer] [Audio] Music stopped! Cat getting dizzy... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:61)
+[2026-11-16T17:48:52.542Z] Starting main.js...
+[2026-11-16T17:48:52.576Z] app.whenReady resolved
+[2026-11-16T17:48:52.577Z] Primary display bounds: 1397x786
+[2026-11-16T17:48:52.654Z] loadFile called for index.html
+[2026-11-16T17:48:52.667Z] Tray setup completed successfully
+[2026-11-16T17:48:52.669Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:48:52.876Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:48:52.878Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:48:52.878Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:48:52.957Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:48:54.150Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:49:35.036Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
+[2026-11-16T17:51:25.695Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:25.841Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:25.996Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:26.142Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:26.451Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:26.852Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:27.007Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:27.317Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:27.462Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:27.633Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:27.802Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:27.972Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:28.159Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:28.334Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:28.504Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:28.675Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:28.860Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:29.052Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:29.239Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:29.416Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:29.625Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:29.826Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:30.002Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:30.150Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:30.351Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:30.520Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:30.691Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:30.852Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:31.038Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:31.223Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:31.649Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:31.810Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:32.604Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:32.774Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:33.246Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:33.408Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:33.933Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:34.094Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:34.281Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:34.442Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:51:34.952Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:35.123Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:35.268Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:35.454Z] [Renderer] [Cat] Petted! Purring happily with 2 hearts ♥... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:186)
+[2026-11-16T17:51:35.910Z] [Renderer] [Cat] Rapid clicks detected! Annoyed swatting... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:182)
+[2026-11-16T17:52:47.517Z] Starting main.js...
+[2026-11-16T17:52:47.551Z] app.whenReady resolved
+[2026-11-16T17:52:47.553Z] Primary display bounds: 1397x786
+[2026-11-16T17:52:47.640Z] loadFile called for index.html
+[2026-11-16T17:52:47.654Z] Tray setup completed successfully
+[2026-11-16T17:52:47.655Z] Registered global hotkey: CommandOrControl+Alt+O
+[2026-11-16T17:52:47.883Z] [Renderer] [Renderer] Starting Desktop Cat Renderer App... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:4)
+[2026-11-16T17:52:47.885Z] [Renderer] [Renderer] Config & ScreenInfo loaded: [object Object] (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:13)
+[2026-11-16T17:52:47.886Z] [Renderer] [Renderer] Cat ready at (668, 696), Floor Y: 696 (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:42)
+[2026-11-16T17:52:47.967Z] [Renderer] [AudioReactiveDetector] Requesting desktop loopback audio... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:26)
+[2026-11-16T17:52:49.020Z] [Renderer] [AudioReactiveDetector] Audio capture active! (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/audio-analyzer.js:46)
+[2026-11-16T17:52:49.214Z] [Renderer] [Audio] Music detected! Triggering OIIA dance... (file:///C:/Users/SHLOK/my%20desktop%20catttt/renderer/app.js:52)
